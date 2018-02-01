@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="title_activity_table_layout">TableLayout</string>
+    <string name="title_activity_grind_layout">GrindLayout</string>
+    <string name="title_activity_grid_layout">GridLayout</string>
+    <string name="num_7">7</string>
+    <string name="n_7">7</string>
+    <string name="title_activity_linear_layaout">LinearLayaout</string>
+    <string name="n_8">8</string>
+    <string name="n_9">9</string>
+    <string name="multi_x">X</string>
+    <string name="n_4">4</string>
+    <string name="n_5">5</string>
+    <string name="n_6">6</string>
+    <string name="resta">-</string>
+    <string name="n_1">1</string>
+    <string name="n_2">2</string>
+    <string name="n_3">3</string>
+    <string name="div">/</string>
+    <string name="cero_0">0</string>
+    <string name="punto">.</string>
+    <string name="mas">+</string>
+    <string name="type_name">Type Name</string>
+    <string name="type_age">Type Age</string>
+    <string name="type_phone">Type Phone</string>
+    <string name="title_activity_relative_layout">RelativeLayout</string>
+    <string name="your_data">Your Data</string>
+
+
+
+</resources>

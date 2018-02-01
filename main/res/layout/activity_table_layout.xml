@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mx.edu.utng.mmacias.evaluacion1.TableLayout">
+
+    <TableRow>
+        <ImageView
+            android:id="@+id/imv_calculadora"
+            android:layout_width="400dp"
+            android:layout_height="300dp"
+            android:onClick="nextActivity5"
+            android:src="@drawable/calculadora"
+            />
+    </TableRow>
+
+    <TableRow>
+        <ImageView
+            android:id="@+id/imv_formulario"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:onClick="nextActivity2"
+            android:src="@drawable/formulario"
+            />
+    </TableRow>
+
+</TableLayout>

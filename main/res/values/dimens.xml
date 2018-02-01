@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="number_size">15pt</dimen>
+    <dimen name="n_size">15pt</dimen>
+    <dimen name="form_number">20pt</dimen>
+    <dimen name="button_num">10pt</dimen>
+
+</resources>
